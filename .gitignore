@@ -1,0 +1,4 @@
+data/Global_Superstore2.xlsx
+data/processed/*.csv
+__pycache__/
+*.pyc
